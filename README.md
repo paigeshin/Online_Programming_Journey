@@ -1,5 +1,7 @@
 # Online_Programming_Journey
 
+[App Transfer](https://developer.apple.com/documentation/sign_in_with_apple/bringing_new_apps_and_users_into_your_team)
+
 [App Transfer](https://developer.apple.com/kr/help/app-store-connect/transfer-an-app/overview-of-app-transfer)
 
 https://stackoverflow.com/questions/51850494/firebase-cloud-functions-firestore-trigger-produces-error-7-permission-denied
