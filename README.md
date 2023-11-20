@@ -1,5 +1,7 @@
 # Online_Programming_Journey
 
+https://medium.com/subjective-developer/update-all-node-packages-to-latest-aa128396b92b
+
 [ZSH Auto Suggestion](https://github.com/zsh-users/zsh-autosuggestions)
 
 [NVM Mac Basic](https://funveloper.tistory.com/203)
