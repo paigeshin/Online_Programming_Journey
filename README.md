@@ -1,5 +1,7 @@
 # Online_Programming_Journey
 
+https://stackoverflow.com/questions/76792138/sandbox-bash72986-deny1-file-write-data-users-xxx-ios-pods-resources-to-co
+
 https://medium.com/subjective-developer/update-all-node-packages-to-latest-aa128396b92b
 
 [ZSH Auto Suggestion](https://github.com/zsh-users/zsh-autosuggestions)
