@@ -34,3 +34,8 @@ tuist edit
 brea install swiftformat 
 swift format . 
 ```
+
+### macOS Screen Sharing
+
+https://www.notion.so/paigedream/MacOS-Screen-Sharing-60e44132df3a4604ba57fd022f6436c7?pvs=4
+
