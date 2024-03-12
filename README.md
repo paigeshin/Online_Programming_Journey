@@ -24,6 +24,8 @@ https://stackoverflow.com/questions/51850494/firebase-cloud-functions-firestore-
 
 [Swift Format](https://github.com/nicklockwood/swiftformat)
 
+[Go back to the previous version of xcode](https://www.notion.so/paigedream/xcode-going-back-to-previous-version-30b24e522c9a4d75b79a764e6c464149?pvs=4)
+
 
 ### Tuist Commands 
 
