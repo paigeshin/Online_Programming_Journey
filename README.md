@@ -26,6 +26,8 @@ https://stackoverflow.com/questions/51850494/firebase-cloud-functions-firestore-
 
 [Go back to the previous version of xcode](https://www.notion.so/paigedream/xcode-going-back-to-previous-version-30b24e522c9a4d75b79a764e6c464149?pvs=4)
 
+https://medium.com/the-swift-blog/optimising-ios-battery-5f0f3beadae7
+
 
 ### Tuist Commands 
 
