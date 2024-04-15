@@ -2,6 +2,14 @@
 
 [Tuist Migration](https://jinsangjin.tistory.com/175)
 
+```shell
+# 타겟의 settings 추출
+tuist migration settings-to-xcconfig -p Project.xcodeproj -t MyApp -x MyApp.xcconfig
+
+# 프로젝트의 settings 추출
+tuist migration settings-to-xcconfig -p Project.xcodeproj -x MyAppProject.xcconfig
+```
+
 https://stackoverflow.com/questions/76792138/sandbox-bash72986-deny1-file-write-data-users-xxx-ios-pods-resources-to-co
 
 https://medium.com/subjective-developer/update-all-node-packages-to-latest-aa128396b92b
