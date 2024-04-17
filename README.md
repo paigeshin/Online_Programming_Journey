@@ -1,5 +1,7 @@
 # Online_Programming_Journey
 
+[Google Play PolicyBytes - Data safety form walkthrough](https://www.youtube.com/watch?v=4rfF3y4xchU)
+
 [Tuist Migration](https://jinsangjin.tistory.com/175)
 
 ```shell
