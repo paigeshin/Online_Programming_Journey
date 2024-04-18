@@ -1,6 +1,6 @@
 # Online_Programming_Journey
 
-[Missing Info.plist](https://github.com/firebase/firebase-ios-sdk/issues/11710)
+[Missing Info.plist](https://forums.developer.apple.com/forums/thread/738351)](https://github.com/firebase/firebase-ios-sdk/issues/11710)
 
 [Google Play PolicyBytes - Data safety form walkthrough](https://www.youtube.com/watch?v=4rfF3y4xchU)
 
